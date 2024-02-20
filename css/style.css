@@ -1,0 +1,32 @@
+nav{
+	background-color: #BBB6B5;
+	border-radius: 0;
+	border: 0;
+}
+header a, a:hover{
+	text-decoration: none;
+	color: #FBFEFA;
+}
+.nav-link{
+	text-align: centre;
+}
+.navbar-collapse{
+	text-align: center;
+}
+section div{
+	font-size: 32px;
+	margin-top: 10px;
+}
+.rows{
+	background-color: #BBB6B5;
+	padding: 10px 10px 30px 30px;
+}
+hr{
+	color: #FBFEFA;
+}
+div p{
+	font-size: 20px;
+}
+div span{
+	text-align: center;
+}
